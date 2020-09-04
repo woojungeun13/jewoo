@@ -1,0 +1,25 @@
+1. python install
+2. Viusal studio Code install
+3. python -m venv flask
+4. Scripts\activate ( Powser shell - Set-ExecutionPolicy Unrestricted  ) 
+   https://infinitt.tistory.com/43
+
+5. # git install # 
+   https://miaow-miaow.tistory.com/17  
+
+6. git remote add origin https://github.com/scott6878/flask_win.git 
+   git branch -M master
+   git push -u origin master
+
+   https://evols-atirev.tistory.com/14
+  
+7. 확인 -  https://github.com/scott6878/flask_win
+
+8.  차주 과제 (Chart.js)    
+https://www.patricksoftwareblog.com/creating-charts-with-chart-js-in-a-flask-application/   
+ https://blog.ruanbekker.com/blog/2017/12/14/graphing-pretty-charts-with-python-flask-and-chartjs/
+
+ (매뉴얼) https://flask-docs-kr.readthedocs.io/ko/latest/tutorial/templates.html    
+ (web 이해) https://www.opentutorials.org/course/3084    
+ (HTML) https://www.opentutorials.org/course/2039   
+ (크롬 개발자도구) https://www.opentutorials.org/course/580
